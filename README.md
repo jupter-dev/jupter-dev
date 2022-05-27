@@ -108,5 +108,6 @@
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=henzek&" alt="henzek" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzek&hide_border=true&layout=compact" align="center" /><img src="https://github-readme-stats.vercel.app/api?username=Henzek&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henzek&hide_border=true&layout=compact" align="center" /><img src="https://github-readme-stats.vercel.app/api?username=Henzek&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
