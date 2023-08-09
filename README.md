@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luan Cicero</h1>
 
-### <div align="center">A full-time full-stack freelance developer 👨‍💻 Working remotely since 2021 🚀</div>  
+### <div align="center">A full-time full-stack freelance developer 👨‍💻 Working remotely since 2020 🚀</div>  
 
 <br/>  
 
