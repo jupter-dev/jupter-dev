@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, Codeigniter, Wordpress, Jquery, JavaScript...**
 
-- 📫 How to reach me **Jupter.developer@gmail.com**
+- 📫 How to reach me **Jupter.dev@gmail.com**
 
 - ⚡ Fun fact **I'm cool xD**
  
